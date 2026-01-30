@@ -1,0 +1,8 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main (){
+    double price = 200.2394784829;
+    int newprice = (int) price;
+    cout<< newprice <<endl; 
+    return 0;
+}
